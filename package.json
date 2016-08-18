@@ -9,7 +9,7 @@
     "build": "webpack --progress --colors --bail"
   },
   "devDependencies": {
-    "aurelia-webpack-plugin": "^1.1.0",
+    "aurelia-webpack-plugin": "andreas-hjortland/webpack-plugin#master",
     "babel": "^6.5.2",
     "babel-cli": "^6.11.4",
     "babel-core": "^6.13.2",
